@@ -22,7 +22,10 @@ npm run dev // for frontend server
 
 Screenshots
 ![Homepage](client/public/homepage.png)
+![Register Page](client/public/registerpage.png)
+![Login Page](client/public/user-login.png)
 ![Admin Dashboard](client/public/admin-dash.png)
 ![User Dashboard](client/public/user-dashboard.png)
-![Register Page](client/public/registerpage.png)
 ![Add Book Page](client/public/addind-books.png)
+![Avalible Book Page](client/public/avaliblebook.png)
+
